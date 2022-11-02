@@ -20,7 +20,7 @@ img {
 }
 
 ul {
-  list-style-image: url("/pics/ghost.pixel.png");
+  list-style-image: url("ghost.pixel.png");
 }
 
 body {
