@@ -1,0 +1,28 @@
+body {
+  background-image: url("/pics/weenpaper.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+main {
+  background-color: teal;
+  color: purple;
+}
+
+img {
+
+  height: 300px;
+}
+.wrapper {
+  width: 60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-image: url("/pics/ghost.pixel.png");
+}
+
+body {
+border-image-repeat: repeat;: url("/pics/happy.png") 27 space;
+}
