@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>A Few of My Favorite Things</title>
+  <h1>Dynamic Gallery</h1>
+  <h2>These Are a Few of My Favorite Things</h2>
+
+  <header>
+  <h3>Shoes and More Shoes</h3></header>
+    <picture>
+       <source media="(min-width: 769px)" srcset="/images/shoes4.jpg">
+
+       <source media="(min-width: 426px)" srcset="/images/shoes3.jpg">
+
+       <source media="(min-width: 321px)" srcset="/images/shoes2.jpg">
+
+      <img src="/images/shoes4.jpg" alt="Shoes" width="200" height="200">
+    </picture>
+<hr>
+  <body>
+  <main>
+    
+    <h3>The Kitty of My Dreams</h3>
+  
+      <picture>
+      <source media="(min-width: 769px)" srcset="/images/kitty4.jpg">
+        
+      <source media="(min-width: 426px)" srcset="/images/kitty3.jpg">
+
+      <source media="(min-width: 321px)" srcset="/images/kitty2.jpg">
+
+        <img src="/images/kitty1.jpg" alt="British Shorthair Cat" width="200" height="200">
+      </picture>
+    
+
+<hr> 
+ 
+        <h3>Electronic Dance Music</h3>
+    
+      <picture>
+        <source media="(min-width: 769px)" srcset="/images/edm4.jpg">
+        
+      <source media="(min-width: 426px)" srcset="/images/edm3.jpg">
+
+      <source media="(min-width: 321px)" srcset="/images/edm2.jpg">
+
+        <img src="/images/edm1.jpg" alt="Electronic Dance Music" width="200" height="200">
+      </picture>
+    <hr>
+
+  
+    <footer>
+
+      
+      
+     <p><i>&copy; 2022 Amanda Hinnerichs</i></p>
+      
+    </footer>
+
+  </main>
+  </body>
+</html>

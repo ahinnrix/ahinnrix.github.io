@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Valuable Knowledge</title>
+	<style>
+    body { width: 80%;
+          background-color:cornflowerblue;
+         }
+
+    p { font-family: georgia, garamond, serif;
+      
+      color:violet;
+      
+      background-color:lightgray;
+      }
+
+    h1 { font-family: monaco, "courier new", monospace;
+       
+       color: purple;
+       
+       background-color: yellow;
+       }
+    h2 { font-family: copperplate, papyrus, fantasy;
