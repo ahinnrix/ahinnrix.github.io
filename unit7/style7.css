@@ -52,9 +52,8 @@ padding-top: 180px;
 }
 
 #T{
-  
-  margin: 20px 40px 80px 100px;
-  padding: 20px 40px;
+margins: 700px 45px;
+  padding 180px 30px
   
   
 
@@ -62,7 +61,8 @@ padding-top: 180px;
 }
 
 #I{
-  display: inline-block;
-  margin: 10px 40px;
+display: block
+  padding: 10px 15px 20px 25px
+  margin: 100px 110px 120px 140px 
   
 }
