@@ -1,4 +1,102 @@
 html, body {
+  background-color:darkturquoise;
   height: 100%;
   width: 100%;
+}
+
+h1, h2, h3 {
+  
+  text-align: center;
+  
+}
+
+#wrapper {
+  
+  width:80%;
+  margin:auto;
+  background-color:floralwhite;
+  box-shadow:60px 16px rebeccapurple;
+  
+}
+
+div {
+  width:90%;
+  margin:auto;
+}
+
+.itembox {
+  border-style: dashed;
+  border-radius:5pxs;
+  box-shadow:15px 15px purple;
+  background-color:hotpink;
+  color:midnightblue;
+  padding: 33;
+}
+
+.favorite {
+  border-style: dotted;
+  border-radius:3px;
+  box-shadow:15px 15px lightgray;
+  background-color:black;
+  color:whitesmoke;
+  padding: 33;
+}
+
+ol li {
+  background:lightskyblue;
+  color:lemonchiffon;
+  padding: 5px;
+  margin-left: 35px;
+}
+
+ul li {
+  background:lavender;
+  color: darkblue;
+  margin: 5px;
+}
+
+#navbar a:hover {
+	background-color:darkmagenta;
+	color:#fff;
+}
+
+
+#navbar li{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar {
+  float: left;
+}
+
+#navbar a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: #111;
+}
+</style>
+</head>
+<body>
+
+<ul>
+ <li><a href="#Peter Principal">Peter Principal</a></li>
+     <li><a href="#Shirky Principal">Shirky Principal</a></li>
+      <li><a href="#Moore's Law">Moore's Law</a></li>
+      <li><a href="#Logical Fallacies">Logical Fallacies</a></li>
+      <li><a href="#Eight Levels of Charity">Eight Levels of Charity</a></li>
+      <li><a href="#Understanding Intention">Understanding Intention</a></li>
+  
+
+</ul>
+
 }

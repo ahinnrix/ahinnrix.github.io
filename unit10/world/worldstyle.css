@@ -1,0 +1,19 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  background-color: lavender;
+  color: orange;
+}
+
+table, th, td {
+  border: 3px solid white;
+  border-collapse: collapse;
+  text-align: center;
+  width: 100%;
+}
+th {
+  height: 70px;
+}
+ td {
+   padding: 10px;
+ }
